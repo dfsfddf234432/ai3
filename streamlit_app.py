@@ -74,6 +74,11 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+     labels[0]: {
+       "texts": ["네이마르는", "세계", "최고의 드리블러"],
+       "images": ["https://i.namu.wiki/i/zu4_C_cWy9w94re4fXXqEVKfA0YmcwuNIUAbuf32WQJ3-BHc3XCnAhRuRqdBfDrIvkI_H2vMXxbmODpP2LX6LQ.webp"],
+       "videos": ["https://www.youtube.com/watch?v=rgz1Mo231TU"]
+     },
 }
 
 # ======================
