@@ -79,7 +79,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://i.namu.wiki/i/zu4_C_cWy9w94re4fXXqEVKfA0YmcwuNIUAbuf32WQJ3-BHc3XCnAhRuRqdBfDrIvkI_H2vMXxbmODpP2LX6LQ.webp"],
        "videos": ["https://www.youtube.com/watch?v=rgz1Mo231TU"]
      },
-      labels[0]: {
+      labels[1]: {
        "texts": ["메시는", "세계 최고의", "축구선수"],
        "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBs6nuf-DmxKNAie-5GWHNmYs44747-0BtbwhaV-8krnz88HxVMbpbky06kQNP7TFG5e0ba1e1httBLohXRYw_Ts-0DiqSCjBRxlI_c1Qq&s=10"],
        "videos": ["https://www.youtube.com/watch?v=3NeDP4C_oRM"]
