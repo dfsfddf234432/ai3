@@ -84,6 +84,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBs6nuf-DmxKNAie-5GWHNmYs44747-0BtbwhaV-8krnz88HxVMbpbky06kQNP7TFG5e0ba1e1httBLohXRYw_Ts-0DiqSCjBRxlI_c1Qq&s=10"],
        "videos": ["https://www.youtube.com/watch?v=3NeDP4C_oRM"]
       },
+}
 # 세션 상태
 # ======================
 if "img_bytes" not in st.session_state:
